@@ -1,1 +1,1 @@
-sudo useradd betty to add a user
+su betty : add betty as user
